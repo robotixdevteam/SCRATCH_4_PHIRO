@@ -12,7 +12,7 @@ This guide will help you install and setup Scratch4Phiro on a Windows computer. 
 
 You can download the Scratch4Phiro Application from this [link](https://drive.google.com/drive/u/2/folders/1rOG1lQMP_9CPBQqnD8n4YXOZBx_oV1Oc)
 
- You can download the Scratch4phiro Sample Program from this [link](https://drive.google.com/drive/folders/1UHYeajDcK3jpNzzfC3a9UBK4FeHGl4Rw)
+You can download the Scratch4phiro Sample Program from this [link](https://drive.google.com/drive/folders/1UHYeajDcK3jpNzzfC3a9UBK4FeHGl4Rw)
 
 ## Scratch4Phiro Application For MacOS:
 
