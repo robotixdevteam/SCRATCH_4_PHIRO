@@ -1,7 +1,7 @@
 # SCRATCH FOR PHIRO
 
 <p align="center" width="100%">
-    <img width="80%" src="Images/Phiro_BG.png" />
+    <img width="100%" src="Images/Phiro_BG.png" />
 </p>
 
 Welcome to the world of Scratch4Phiro, where you can bring your ideas to life and make the Phiro robot do amazing things! 
