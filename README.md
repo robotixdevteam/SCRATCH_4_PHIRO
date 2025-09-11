@@ -24,7 +24,7 @@ This guide will help you install and setup Scratch4Phiro on a Mac computer. Foll
 
 2. You can download the Scratch4phiro Sample Program from this [link](https://drive.google.com/file/d/1E8M-4aQ5jnVOlBJLrvLsYX16FQBKuH7Z)
 
-3. You can download the Scratch4phiro Installation Guide for Windows from this [link](https://github.com/robotixdevteam/SCRATCH_4_PHIRO/tree/main/Installation%20Guide/Mac%20Guide)
+3. You can download the Scratch4phiro Installation Guide for MacOS from this [link](https://github.com/robotixdevteam/SCRATCH_4_PHIRO/tree/main/Installation%20Guide/Mac%20Guide)
 
 ## Contact
 
