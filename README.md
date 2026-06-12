@@ -16,6 +16,8 @@ This guide will help you install and setup Scratch4Phiro on a Windows computer. 
 
 3. You can download the Scratch4phiro Installation Guide for Windows from this [link](https://github.com/robotixdevteam/SCRATCH_4_PHIRO/tree/main/Installation%20Guide/Windows%20Guide)
 
+4. You can view the Scratch4phiro Installation Video Guide for Windows from this [link](https://vimeo.com/1169067650/ff58160553)
+
 ## Scratch4Phiro Application For MacOS:
 
 This guide will help you install and setup Scratch4Phiro on a Mac computer. Follow these steps, and you'll be ready to create your very first program in no time. Let's dive into the fun of coding and robotics !
@@ -25,6 +27,8 @@ This guide will help you install and setup Scratch4Phiro on a Mac computer. Foll
 2. You can download the Scratch4phiro Sample Program from this [link](https://drive.google.com/file/d/1E8M-4aQ5jnVOlBJLrvLsYX16FQBKuH7Z)
 
 3. You can download the Scratch4phiro Installation Guide for MacOS from this [link](https://github.com/robotixdevteam/SCRATCH_4_PHIRO/tree/main/Installation%20Guide/Mac%20Guide)
+
+4. You can view the Scratch4phiro Installation Video Guide for MacOS from this [link](https://vimeo.com/1169067628/c06c573184)
 
 ## Contact
 
